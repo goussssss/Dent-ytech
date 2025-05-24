@@ -269,7 +269,7 @@ MIT License - See LICENSE for details.
 <img src="https://avatars.githubusercontent.com/goussssss?v=4" width="100px;" alt="Gouss"/><br />
 <sub><b>Gouse</b></sub>
 </a><br />
-<a href="https://github.com/your-org/Dent-ytech/commits?author=goussssss" title="Code">commits</a>
+<a href="https://github.com/goussssss/Dent-ytech/commits?author=goussssss" title="Code">commits</a>
 </td>
 </tr>
 </table>
