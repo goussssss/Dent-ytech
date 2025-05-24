@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PNPM](https://img.shields.io/badge/pnpm-8.x+-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=4ECDC4&center=true&width=600&lines=Team+Name%3A+CHAMA+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=4ECDC4&center=true&width=600&lines=Team+Name%3A+CHAMA)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=4ECDC4&center=true&width=600&lines=Hackathon%3A+BUILDVERSE+2025+⚡)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=4ECDC4&center=true&width=600&lines=Date%3A+25%2F5%2F2025+📅)
 
@@ -17,7 +17,7 @@
 ## 🧠 **Introduction**
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=45B7D1&width=800&lines=Intelligent+Synthesis+%26+Markdown+Output;Multimodal+Research+Assistant+for+Everyone;Combining+LLMs%2C+Web+Search+%26+Image+Analysis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=45B7D1&width=800&lines=Multimodal+Research+Assistant+for+Everyone" alt="Typing SVG" />
 
 
 **Intelligent Synthesis & Markdown Output** is a multimodal research assistant that helps users generate accurate, transparent, and visually rich research reports. Designed for students, professionals, and analysts, it combines the power of LLMs, smart web search, and image analysis to automate complex research workflows. By shifting the burden of data gathering to AI, users can focus on insights and decision-making.
@@ -26,32 +26,31 @@
 
 ## ❗ **Problem Statement**
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&width=700&lines=Research+is+Slow+%26+Fragmented+⏰;Lack+of+Transparency+in+AI+Tools+🔍;No+Image-Based+Analysis+Support+📸;Unreliable+for+Serious+Research+Tasks+⚠️" alt="Problems" />
-
-
 In today's fast-paced digital world, conducting in-depth research is often slow, fragmented, and lacks transparency. Existing AI tools typically fail to show how answers are formed, rely on outdated or unverifiable sources, and lack support for image-based analysis. Moreover, these tools are rarely scalable or optimised for real-time use, making them unreliable for serious research tasks. There's a pressing need for an intelligent, multimodal, and explainable system that streamlines the research process while ensuring trust, clarity, and efficiency.
+
+- **Research is slow and fragmented** ⏰  
+- **Lack of transparency in AI tools** 🔍  
+- **No support for image-based analysis** 📸  
+- **Unreliable for serious research tasks** ⚠️  
+- **Difficult to trace interconnections between research papers** 🔗
 
 ---
 
 ## ✅ **Solution Overview**
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=F9CA24&center=true&width=800&lines=Transparent+%26+Scalable+AI+Research+Agent+🤖;Mimics+Human+Research+Behavior+🧠;Smart+RAG+%2B+Image+Understanding+📊" alt="Solution" />
-
-
 Our solution is a transparent and scalable AI research agent that mimics human research behaviour. It uses clarifying questions, smart RAG (retrieval-augmented generation), image understanding, and dynamic visualisations to build comprehensive markdown reports. Key features include:
 
 <div align="center">
 
-| Feature                | Description                                  |
-|------------------------|----------------------------------------------|
-| **Citation Tracking**  | Enables transparency by verifying sources    |
-| **Smart Task Planner** | Breaks down goals into actionable steps      |
-| **Multimodal Support** | Processes both text and image inputs         |
-| **Dual-Layer Caching** | Combines Redis and in-memory for performance |
-| **Data Visualization** | Supports dynamic charts and diagrams         |
-| **Collaborative Reports** | Editable reports integrated with GitHub     |
+| Feature                  | Description                                           |
+|--------------------------|-------------------------------------------------------|
+| **Citation Tracking**    | Enables transparency by verifying sources             |
+| **Smart Task Planner**   | Breaks down goals into actionable steps               |
+| **Multimodal Support**   | Processes both text and image inputs                  |
+| **Dual-Layer Caching**   | Combines Redis and in-memory for performance          |
+| **Data Visualization**   | Supports dynamic charts and diagrams                  |
+| **Collaborative Reports**| Editable reports integrated with GitHub               |
+| **Citation Graphs**      | Visualizes how research papers are interlinked        |
 
 
 </div>
@@ -233,9 +232,6 @@ USE_REDIS_CACHE=false
 ---
 
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=abhi9ab&theme=react-dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4ECDC4&point=FF6B6B)
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mayankch283&theme=react-dark&hide_border=true&bg_color=0D1117&color=F9CA24&line=4ECDC4&point=FF6B6B)
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=goussssss&theme=react-dark&hide_border=true&bg_color=0D1117&color=45B7D1&line=4ECDC4&point=FF6B6B)
 
 ## 📄 **License**
 
@@ -248,6 +244,44 @@ MIT License - See LICENSE for details.
 ---
 
 <div align="center">
+
+
+### 🏆 **Team Members**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/abhi9ab">
+<img src="https://avatars.githubusercontent.com/abhi9ab?v=4" width="100px;" alt="Abhi"/><br />
+<sub><b>Abhi</b></sub>
+</a><br />
+<a href="https://github.com/your-org/deep-research-ai/commits?author=abhi9ab" title="Code">💻</a>
+<a href="#ideas-abhi9ab" title="Ideas">🤔</a>
+<a href="#design-abhi9ab" title="Design">🎨</a>
+</td>
+<td align="center">
+<a href="https://github.com/mayankch283">
+<img src="https://avatars.githubusercontent.com/mayankch283?v=4" width="100px;" alt="Mayank"/><br />
+<sub><b>Mayank</b></sub>
+</a><br />
+<a href="https://github.com/your-org/deep-research-ai/commits?author=mayankch283" title="Code">💻</a>
+<a href="#infra-mayankch283" title="Infrastructure">🚇</a>
+<a href="#test-mayankch283" title="Tests">⚠️</a>
+</td>
+<td align="center">
+<a href="https://github.com/goussssss">
+<img src="https://avatars.githubusercontent.com/goussssss?v=4" width="100px;" alt="Gouss"/><br />
+<sub><b>Gouss</b></sub>
+</a><br />
+<a href="https://github.com/your-org/deep-research-ai/commits?author=goussssss" title="Code">💻</a>
+<a href="#doc-goussssss" title="Documentation">📖</a>
+<a href="#maintenance-goussssss" title="Maintenance">🚧</a>
+</td>
+</tr>
+</table>
+
+
+
 
 ## 🧠🔬 **Happy Researching!**
 
